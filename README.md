@@ -21,8 +21,11 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ### Election Audit Result
 The election audit shows that
 - There were 369,711 votes cast in the election.
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- Which county had the largest number of votes?
+  - Jefferson county provided 38,855 votes and 10.5% of the total vote.
+  - Denver county provided 306,055 votes and 82.8% of the total vote.
+  - Arapahoe county provided 24,801 votes and 6.7% of the total vote.
+- The county with the highest amount of votes cast was:
+  - Denver county 
 - The candidates involved were:
   - Charles Casper Stockham
   - Diana DeGette
